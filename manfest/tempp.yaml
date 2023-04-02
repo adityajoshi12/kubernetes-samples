@@ -4,4 +4,4 @@ metadata:
   creationTimestamp: null
   name: thanos
 spec: {}
-status: {}
+
